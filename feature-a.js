@@ -1,1 +1,1 @@
-console.log(feature master);
+console.log(istrinta);
