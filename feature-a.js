@@ -1,1 +1,1 @@
-console.log(istrinta);
+console.log(papildyta);
